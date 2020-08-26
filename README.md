@@ -1,6 +1,6 @@
 # Reinforcement Learning on CartPole and Atari Environment
 
-So in this report, I have discussed deep q-network and it’s application with breakout Atari and Cartpole-V0 Open Gym environments. And showed the
+So in this project, I have discussed deep q-network and it’s application with breakout Atari and Cartpole-V0 Open Gym environments. And showed the
 results of it. And how can I improve the results of it, through increasing the layers of the network or incrementing the networks itself. So to implement it, I
 came up with Double and Duel DQN for improving the results. Hence I tested out and showed the results how it goes.
 
